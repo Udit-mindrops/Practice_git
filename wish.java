@@ -1,1 +1,3 @@
-hi, hello
+class wish{
+  hi, hello
+}
